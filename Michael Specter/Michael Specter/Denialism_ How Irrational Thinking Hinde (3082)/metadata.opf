@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3082</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">733a6da8-5b56-43c4-a7da-8453fafebe8f</dc:identifier>
+        <dc:title>Denialism: How Irrational Thinking Hinders Scientific Progress, Harms the Planet, and Threatens Our Lives</dc:title>
+        <dc:creator opf:file-as="Specter, Michael" opf:role="aut">Michael Specter</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-15T07:45:02.709000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**In this provocative and headline- making book, Michael Specter confronts the widespread fear of science and its terrible toll on individuals and the planet.**
+
+
+
+ In *Denialism, New Yorker* staff writer Michael Specter reveals that Americans have come to mistrust institutions and especially the institution of science more today than ever before. For centuries, the general view had been that science is neither good nor bad-that it merely supplies information and that new information is always beneficial. Now, science is viewed as a political constituency that isn't always in our best interest. We live in a world where the leaders of African nations prefer to let their citizens starve to death rather than import genetically modified grains. Childhood vaccines have proven to be the most effective public health measure in history, yet people march on Washington to protest their use. In the United States a growing series of studies show that dietary supplements and "natural" cures have almost no value, and often cause harm. We still spend billions of dollars on them. In hundreds of the best universities in the world, laboratories are anonymous, unmarked, and surrounded by platoons of security guards-such is the opposition to any research that includes experiments with animals. And pharmaceutical companies that just forty years ago were perhaps the most visible symbol of our remarkable advance against disease have increasingly been seen as callous corporations propelled solely by avarice and greed.
+
+
+
+ As Michael Specter sees it, this amounts to a war against *progress*. The issues may be complex but the choices are not: Are we going to continue to embrace new technologies, along with acknowledging their limitations and threats, or are we ready to slink back into an era of magical thinking? In *Denialism*, Specter makes an argument for a new Enlightenment, the revival of an approach to the physical world that was stunningly effective for hundreds of years: What can be understood and reliably repeated by experiment is what nature regarded as true. Now, at the time of mankind's greatest scientific advances-and our greatest need for them-that deal must be renewed.</dc:description>
+        <dc:publisher>Penguin Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594202308</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-02-22T05:12:33.047266+00:00" name="calibre:timestamp"/>
+        <meta content="Denialism: How Irrational Thinking Hinders Scientific Progress, Harms the Planet, and Threatens Our Lives" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

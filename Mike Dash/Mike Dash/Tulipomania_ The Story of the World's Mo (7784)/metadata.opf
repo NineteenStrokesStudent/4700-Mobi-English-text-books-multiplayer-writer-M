@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5a18c5bc-4ef8-407c-bcdd-c2828ee4210e</dc:identifier>
+        <dc:title>Tulipomania: The Story of the World's Most Coveted Flower &amp; the Extraordinary Passions It Aroused</dc:title>
+        <dc:creator opf:file-as="Dash, Mike" opf:role="aut">Mike Dash</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-10T10:00:00+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;p&gt;For history buffs or gardeners who enjoy more than just digging in the dirt, &lt;em&gt;Tulipomania&lt;/em&gt; presents a fascinating look at the tulip frenzy that took place in Holland in the mid-1600s. Beginning as gifts given among the wealthy and educated folk of Europe and Asia, the tulip rapidly became a source of incredible financial gain--similar to today's Internet start-up companies or Beanie Baby collections. Stories of craftsmen discontinuing their trade and focusing on raising tulips for public auction, where they sold for prices comparable to that of a manor house, are astonishing. Poets, moralists, businessmen--it seems everyone was involved at some level. 
+&lt;/p&gt;
+&lt;p&gt;Lack of regulation and poor quality control were just a couple of the details that led to the abrupt crash in February 1637. Tulipomania was the original market bust--people were ruined, debts went unpaid. It was a disaster similar to the stock-market crash of 1929. A brief resurrection of the mania occurred 65 years later in Istanbul, and while it was not the financial obsession Holland experienced, it led to the creation of standards in flower shape and increased the development of new types. You don't need to be obsessed to enjoy this book--an interest in tulips, history, and the futures market ensures that this will be a remarkable read. &lt;em&gt;--Jill Lightner&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;The centerpiece of this story is a stunning two months, December 1636 and January 1637, when fortunes were made and lost in the Netherlands--in tulip bulb futures trading. Stripped to its basics, this would be a dry case study in an economics textbook. But Dash adds depth to the tale by including relevant bits of botany, sociology and history, as well as glimpses of the personalities involved in the creation of the tulip market, such as the orphans who made a fortune selling their late father's tulip bulbs and the man who owned a dozen extremely rare bulbs and wouldn't part with them at any price. Occasionally, he provides too much detail--his descriptions of how many guilders changed hands in particular transactions become repetitive, as do his physical descriptions of specific tulip varieties. Dash is fascinated by the contrast between the aesthetic sense of the Ottoman sultans (reflected in their love of tulip-laden gardens) and the ferocity of their rule (evidenced by fratricide, garroting and torture), but his musings on this interesting paradox are too unfocused to be enlightening. Overall, however, Dash (The Limit; Borderlands) effectively brings together a diverse mix of disciplines to illuminate the cultural, financial and psychological elements of an economic bubble--a subject that should be of great interest today. Readers interested in the technical aspects of economic speculation and those attuned to human folly will find this a worthwhile read. (Mar.) &lt;br /&gt;
+Copyright 2000 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780609807651</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:46.794000+00:00" name="calibre:timestamp"/>
+        <meta content="Tulipomania: The Story of the World's Most Coveted Flower &amp; the Extraordinary Passions It Aroused" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

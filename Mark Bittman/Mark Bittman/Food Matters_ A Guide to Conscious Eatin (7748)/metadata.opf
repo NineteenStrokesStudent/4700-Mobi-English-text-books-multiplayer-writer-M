@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7748</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88267775-4cb6-45d8-9c56-4e1cf8f7d417</dc:identifier>
+        <dc:title>Food Matters: A Guide to Conscious Eating with More Than 75 Recipes</dc:title>
+        <dc:creator opf:file-as="Bittman, Mark" opf:role="aut">Mark Bittman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-15T03:13:13.417000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Cookbook author Bittman (_How to Cook Everything_) offers this no-nonsense volume loaded with compelling information about how the food we eat is doing damage to the environment, what changes to make and why. Authors have covered this topic before (Michael Pollan, for example, in &lt;em&gt;The Omnivores Dilemma&lt;/em&gt; and &lt;em&gt;In Defense of Food&lt;/em&gt;), but Bittman takes a practical turn by concluding with 77 recipes that make earth-friendly eating doable and appealing. His collection of reliable recipes even includes such meat dishes as Thai beef salad, which isnt meat-heavy, but rather has just the right balance of meat to greens. There are also such staples as super-simple mixed rice; chicken not pie; and modern bouillabaisse. Bittman decries consumption of over-refined carbohydrates, but doesnt leave off without some sweets, including chocolate semolina pudding and nutty oatmeal cookies—suggesting, as the whole book does, that a diet in synch with the needs of the earth doesnt result in a sense of utter deprivation. &lt;em&gt;(Jan.)&lt;/em&gt; &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;Only America could produce a Mark Bittman. One moment, he’s traversing Spain on public television with celebrities in tow, peddling the newest fad in high-end dining and drooling over prodigious quantities of savory food in tight closeup. The next moment he’s promoting minimalist cooking. Now he reports his own passionate belief in agricultural sustainability and slow food, and he touts a new diet that not only offers guilt-free pleasure but also makes Americans look as good as the beautiful people he hangs out with. His prescription: become aware of where food comes from; choose foods intelligently; pay attention to broad, inclusive nutritional principles; balance intake and exercise; snack judiciously; and make sure that whatever one eats, it’s as attractive to the palate as it is to the waistline. Bittman’s fame will generate lots of attention, and his commonsense advice, while not new, bears the hallmarks of contemporary nutritional wisdom. Recipes included. --Mark Knoblauch 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416575658</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-04T03:59:06.028632+00:00" name="calibre:timestamp"/>
+        <meta content="Food Matters: A Guide to Conscious Eating with More Than 75 Recipes" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

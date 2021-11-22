@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7897</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4ed6dfee-be51-4491-bdf5-c60ab41ee428</dc:identifier>
+        <dc:title>The Native Star</dc:title>
+        <dc:creator opf:file-as="Hobson, M. K." opf:role="aut">M. K. Hobson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-05T16:00:00+00:00</dc:date>
+        <dc:description>In the tradition of Jonathan Strange &amp; Mr. Norrell, this brilliant first novel fuses history, fantasy, and romance. Prepare to be enchanted by M. K. Hobson's captivating take on the Wild, Wild West. The year is 1876. In the small Sierra Nevada settlement of Lost Pine, the town witch, Emily Edwards, is being run out of business by an influx of mail-order patent magics. Attempting to solve her problem with a love spell, Emily only makes things worse. But before she can undo the damage, an enchanted artifact falls into her possession--and suddenly Emily must flee for her life, pursued by evil warlocks who want the object for themselves. Dreadnought Stanton, a warlock from New York City whose personality is as pompous and abrasive as his name, has been exiled to Lost Pine for mysterious reasons. Now he finds himself involuntarily allied with Emily in a race against time--and across the United States by horse, train, and biomechanical flying machine--in quest of the great Professor Mirabilis, who alone can unlock the secret of the coveted artifact. But along the way, Emily and Stanton will be forced to contend with the most powerful and unpredictable magic of all--the magic of the human heart.</dc:description>
+        <dc:publisher>Spectra</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345521699</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-12-07T04:05:31.370000+00:00" name="calibre:timestamp"/>
+        <meta content="Native Star, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

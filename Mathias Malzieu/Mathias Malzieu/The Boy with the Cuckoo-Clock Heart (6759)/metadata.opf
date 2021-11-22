@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6759</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b9737565-e8f8-4819-846e-b722442e30d7</dc:identifier>
+        <dc:title>The Boy with the Cuckoo-Clock Heart</dc:title>
+        <dc:creator opf:file-as="Malzieu, Mathias &amp; Ardizzone, Sarah" opf:role="aut">Mathias Malzieu</dc:creator>
+        <dc:creator opf:file-as="Malzieu, Mathias &amp; Ardizzone, Sarah" opf:role="aut">Sarah Ardizzone</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-03-02T08:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+FIRSTLY: don’t touch the hands of your cuckoo-clock heart. SECONDLY: master your anger. THIRDLY: never, ever fall in love. For if you do, the hour hand will poke through your skin, your bones will shatter, and your heart will break once more.Edinburgh, 1874. Born with a frozen heart, Jack is near death when his mother abandons him to the care of Dr. Madeleine—witch doctor, midwife, protector of orphans—who saves Jack by placing a cuckoo clock in his chest. And it is in her orphanage that Jack grows up among tear-filled flasks, eggs containing memories, and a man with a musical spine.As Jack gets older, Dr. Madeleine warns him that his heart is too fragile for strong emotions: he must never, ever fall in love. And, of course, this is exactly what he does: on his tenth birthday and with head-over-heels abandon. The object of his ardor is Miss Acacia—a bespectacled young street performer with a soul-stirring voice. But now Jack’s life is doubly at risk—his heart is in danger and so is his safety after he injures the school bully in a fight for the affections of the beautiful singer.Now begins a journey of escape and pursuit, from Edinburgh to Paris to Miss Acacia’s home in Andalusia. Mathias Malzieu’s The Boy with the Cuckoo-Clock Heart is a fantastical, wildly inventive tale of love and heartbreak—by turns poignant and funny—in which Jack finally learns the great joys, and ultimately the greater costs, of owning a fully formed heart.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307271686</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T10:59:30.757000+00:00" name="calibre:timestamp"/>
+        <meta content="Boy with the Cuckoo-Clock Heart, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

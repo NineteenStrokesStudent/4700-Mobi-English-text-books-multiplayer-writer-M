@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6773</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">751d5d3a-b453-47b2-b9f2-6efc8a351f56</dc:identifier>
+        <dc:title>The Options Trading Body of Knowledge: The Definitive Source for Information About the Options Industry</dc:title>
+        <dc:creator opf:file-as="Thomsett, Michael C." opf:role="aut">Michael C. Thomsett</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-25T19:37:31.696000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+“The author has written a truly complete reference book on options trading, from basics to strategies to taxes and theory. Newcomers to options can quickly find a clear explanation of terms or strategies they aren’t familiar with, and experienced traders can expand their understanding of how complex strategies are created.”  --**Jim Bittman, **author, *Trade Options Like a Professional*     “For a new perspective about options, I recommend Michael Thomsett’s comprehensive *The Options Trading Body of Knowledge*. Traders at all levels will enjoy his easy-to-read style as he explains options from A to Z. The options industry has needed a reference like this for a long time.”  --**Marty Kearney, **Senior Staff Instructor, The Options Institute     **The Comprehensive, Up-to-Date Reference for Every Options Trader**      By Michael C. Thomsett, author of the global best-seller *Getting Started in Options*    Illuminates virtually every technique and form of options trading--including options on futures and ETFs    Helps you consistently choose the right options strategies and understand your true risks     Options offer investors multiple opportunities to enhance their profits. However, options trading is complex, and the sheer scope of available strategies can overwhelm traders. Today, options can support a wide range of strategies, from high risk to conservative. Moreover, options are available not only for stock equities but also for futures, indices, and mutual funds. To trade successfully, traders need an authoritative, up-to-date guide to all the strategies available to them. Now, renowned options expert and best-selling author Michael C. Thomsett has created the definitive reference for options traders at all levels of experience.     Thomsett systematically illuminates each key technique and strategy: how trades are structured, how to assess risk, and when each strategy is most applicable. For most strategies, Thomsett presents detailed tables and illustrations identifying profit zones, loss zones, and breakeven points.      This book thoroughly explains how option premium develops based on various elements of value, walks through the calculation of returns on options trading, discusses how federal taxation works in the options market, shows how stocks are picked for options trading, and provides a complete glossary and additional resources for traders.       **Thoroughly Comprehend Options Trading Risks**    *Systematically evaluate risks associated with markets, volatility, inflation, taxation, portfolios, and knowledge*    **Understand All the Elements of Value in an Options Trade
+
+***Master concepts ranging from time-to-expiration to implied volatility*    **Use the Right Strategies at the Right Time
+
+***Know when to use covered calls, spreads, straddles, combinations, and synthetic positions*    **The Options Marketplace: History, Evolution, and Trends
+
+***Understand both the “forest” and the “trees” *</dc:description>
+        <dc:publisher>FT Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780137142934</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Non-fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T19:35:14.994000+00:00" name="calibre:timestamp"/>
+        <meta content="Options Trading Body of Knowledge: The Definitive Source for Information About the Options Industry, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Non-fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

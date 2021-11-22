@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6750</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da9b8166-fb70-4775-b220-fd1df6990f3c</dc:identifier>
+        <dc:title>Vampire Forensics: Uncovering the Origins of an Enduring Legend</dc:title>
+        <dc:creator opf:file-as="Jenkins, Mark Collins" opf:role="aut">Mark Collins Jenkins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Mark Jenkins's engrossing history draws on the latest science, anthropological and archaeological research to explore the origins of vampire stories, providing gripping historic and folkloric context for the concept of immortal beings who defy death by feeding on the lifeblood of others. From the earliest whispers of eternal evil in ancient Mesopotamia, Greece, and Rome, vampire tales flourished through the centuries and around the globe, fueled by superstition, sexual mystery, fear of disease and death, and the nagging anxiety that demons lurk everywhere. In "Vampire Forensics, " Mark Jenkins probes vampire legend to tease out the historical truths enshrined in the tales of terror: sherds of Persian pottery depicting blood-sucking demons; the amazing recent discovery by National Geographic archaeologist Matteo Borrini of a 16th-century Venetian grave of a plague victim and suspected vampire; and the Transylvanian castle of "Vlad the Impaler," whose bloodthirsty cruelty remains unsurpassed. Jenkins navigates centuries of lore and legend, adding new chapters to the chronicle and weaving an irresistibly seductive blend of superstition, psychology, and science sure to engross everyone from Anne Rice's countless readers to serious students of archaeology and mythology.</dc:description>
+        <dc:publisher>National Geographic Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781426206078</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T10:41:57.246000+00:00" name="calibre:timestamp"/>
+        <meta content="Vampire Forensics: Uncovering the Origins of an Enduring Legend" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

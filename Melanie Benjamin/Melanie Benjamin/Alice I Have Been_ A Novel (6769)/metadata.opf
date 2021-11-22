@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6769</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c54a94b-fe87-4e45-a1f1-808f3d8861be</dc:identifier>
+        <dc:title>Alice I Have Been: A Novel</dc:title>
+        <dc:creator opf:file-as="Benjamin, Melanie" opf:role="aut">Melanie Benjamin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+Few works of literature are as universally beloved as" Alice's Adventures in Wonderland." Now, in this spellbinding historical novel, we meet the young girl whose bright spirit sent her on an unforgettable trip down the rabbit hole-and the grown woman whose story is no less enthralling. But oh my dear, I am tired of being Alice in Wonderland. Does it sound ungrateful? Alice Liddell Hargreaves's life has been a richly woven tapestry: As a young woman, wife, mother, and widow, she's experienced intense passion, great privilege, and greater tragedy. But as she nears her eighty-first birthday, she knows that, to the world around her, she is and will always be only "Alice." Her life was permanently dog-eared at one fateful moment in her tenth year-the golden summer day she urged a grown-up friend to write down one of his fanciful stories. That story, a wild tale of rabbits, queens, and a precocious young child, becomes a sensation the world over. Its author, a shy, stuttering Oxford professor, does more than immortalize Alice-he changes her life forever. But even he cannot stop time, as much as he might like to. And as Alice's childhood slips away, a peacetime of glittering balls and royal romances gives way to the urgent tide of war. For Alice, the stakes could not be higher, for she is the mother of three grown sons, soldiers all. Yet even as she stands to lose everything she treasures, one part of her will always be the determined, undaunted Alice of the story, who discovered that life beyond the rabbit hole was an astonishing journey. A love story and a literary mystery, Alice I Have Been brilliantly blends fact and fiction to capture the passionate spirit of a woman who was truly worthy of her fictional alter ego, in a world as captivating as the Wonderland only she could inspire. "From the Hardcover edition."</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780440339540</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T11:13:54.058000+00:00" name="calibre:timestamp"/>
+        <meta content="Alice I Have Been: A Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04509196-0418-49e9-88fa-861085b01424</dc:identifier>
+        <dc:title>The Wild Child</dc:title>
+        <dc:creator opf:file-as="Putney, Mary Jo" opf:role="aut">Mary Jo Putney</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2000-07-05T17:43:43.764000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;Amazon.com Review&lt;/h3&gt;
+&lt;p&gt;When Dominic Renbourne is visited by his identical twin Kyle, he steels himself for the sort of bitter confrontation that has marked their meetings for years. But when Kyle makes an exceptional request, and offers some family land as a bribe, Dominic feels his defenses failing. Unable to deny the desperation in his brother's eyes--or the chance to finally inherit some of their family's wealth--he agrees to an unusual charade. Dominic will temporarily take his brother's place in the courtship of the beautiful, if possibly mad, Lady Meriel Grahame.
+&lt;/p&gt;
+&lt;p&gt;The mysterious Lady Meriel is as unpredictable as was rumored. After her recovery from a childhood kidnapping, she turned inside to her secret world of silence and the comfort of her lush garden. Though two elderly relatives and an Indian caretaker have since watched over her, Meriel can not communicate, and flees from the external threat that Dominic presents.
+&lt;/p&gt;
+&lt;p&gt;Unable to dismiss Meriel's odd behaviors as insanity, Dominic seeks to uncover the source of her pain and the core of her complex personality. Warmed by his patient compassion and gentle encouragement, Meriel begins to open up to him. But the pressures of society and the growing threat of her commitment to an asylum force Meriel to choose between these two worlds. Helplessly in love with her, Dominic searches for a way to help her find her true identity, while continuing to conceal his own.
+&lt;/p&gt;
+&lt;p&gt;When switched identities, arranged marriages, and even the mildest case of insanity meet, a novel is bound to be an absolutely entertaining hoot. As well as creating sympathetic characters and their realistic development, Mary Jo Putney has a talent for capturing the complex rivalries of siblings and the conflict between our internal and external lives. Though the arrival of a final plot twist is distracting and unnecessary, Putney has once again written a solid historical novel that should support her reputation as one of the finest romance writers of our time. &lt;em&gt;--Nancy R.E. O'Brien&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Lady Meriel Grahame, the eighth heroine in Putney's Fallen Angels series, has lived in a world of self-imposed silence since the night of violence in colonial India that claimed her parents' lives. Deemed mad by her guardian uncles (one good, one evil), looked after by two widows (both good), she lives a life of fey barefoot willfulness, making weedy centerpieces for the mahogany dining table and communing with the animals who roam the gorgeous grounds of her ancestral home, Warfield. Lord Grahame, her evil uncle, would like to see her locked up in a mental asylum (Putney dwells on the horrors of early 19th-century "modern" psychiatry), but her good uncle, Lord Amworth, thinks a wedding and bedding might cure herAand the time is now, while Grahame is out of the country. Since infancy, Meriel has been pledged to Kyle Renbourne, Lord Maxwell, the future earl of Wrexham. Heart-bound to escort his dying mistress home to Spain, Kyle dispatches his twin brother, Dominic, to court Meriel in his place. The novel is most enjoyable precisely where it's most predictable, and it's in the all-consuming attraction, body and spirit, between Dominic and Meriel that it reaches its peak. Allowed unthinkable liberties, Meriel paints henna designs on Dominic's trembling torso, laughs at his morality and offers up an irresistible bargaining chip: if she may have his body, he shall hear her voice. Her words may lack the eloquence of her silence, and the second half of the novel is altogether the weaker, but there's satisfaction for readers who like to see villains die and everyone else live happily ever after. Author tour. (Aug.) &lt;br /&gt;
+Copyright 1999 Reed Business Information, Inc. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780449005842</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance:Historical</dc:subject>
+        <meta content="The Bride Trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:34.069000+00:00" name="calibre:timestamp"/>
+        <meta content="Wild Child, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

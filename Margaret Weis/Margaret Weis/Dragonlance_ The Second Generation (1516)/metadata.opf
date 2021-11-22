@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1516</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">340dad77-4cd2-4d4e-859b-c4fb2b13af97</dc:identifier>
+        <dc:title>Dragonlance: The Second Generation</dc:title>
+        <dc:creator opf:file-as="Weis, Margaret &amp; Hickman, Tracy" opf:role="aut">Margaret Weis</dc:creator>
+        <dc:creator opf:file-as="Weis, Margaret &amp; Hickman, Tracy" opf:role="aut">Tracy Hickman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-31T08:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Years have passed since the end of the War of the Lance. The people of Ansalon have rebuilt their lives, their houses, their families. The Companions of the Lance, too, have returned to their homes, raising children and putting the days of their heroic deeds behind them.But peace on Krynn comes at a price. The forces of darkness are ever vigilant, searching for ways to erode the balance of power and take control. When subtle changes begin to permeate the fragile peace, new lives are drawn into the web of fate woven around all the races. The time has come to pass the sword -- or the staff -- to the children of the Lance.They are the Second Generation.An all-new repackaged paperback edition of a classic **Dragonlance **novel.This book of five novellas bridges the gap between the Chronicles and Legends trilogies and *Dragons of Summer Flame*. While detailing their adventures, *The Second Generation* also sets up key events and characters in future **Dragonlance **novels.</dc:description>
+        <dc:publisher>Wizards of the Coast</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780786926947</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <meta content="The Second Generation" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-30T20:06:42.721000+00:00" name="calibre:timestamp"/>
+        <meta content="Dragonlance: The Second Generation" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fantasy&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

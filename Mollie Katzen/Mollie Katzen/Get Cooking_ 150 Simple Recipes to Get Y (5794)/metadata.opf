@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5794</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2eb6334f-ca72-4f2f-b456-9dc660777fd5</dc:identifier>
+        <dc:title>Get Cooking: 150 Simple Recipes to Get You Started in the Kitchen</dc:title>
+        <dc:creator opf:file-as="Katzen, Mollie" opf:role="aut">Mollie Katzen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-27T23:52:57.845000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Do you want to eat really well—not just once in a while, but all the time—but you don't know where to begin?  
+
+ Are you tired of pizza—as much as you like it—and broke from buying takeout?  
+
+ Do you love good food—the straightforward, homemade kind—but feel challenged to set up a kitchen, shop for decent equipment and groceries, and tap into a few basic skills that can put a simple roast chicken or vegetarian entrÉe on your dinner table?  
+
+ If you answer "yes" to these questions, then *Get Cooking* is for you. *Get Cooking* is the first book from bestselling cookbook author Mollie Katzen designed specifically for beginners, whether you are just starting to cook for yourself or trying to kick the restaurant habit. Unlike most cookbooks, the goal of *Get Cooking* is to get you in the kitchen, no matter what your experience level might be.  
+
+ Illustrated throughout with color photographs of each dish, *Get Cooking* gives you clear, step-by-step instructions for making everything from classic mashed potatoes to BroccoliCheddar Cheese Calzones to Hot Fudge Sundaes (with homemade hot fudge!). With this book, anyone—you included—can make delicious, fresh food, with a lot less expense (and a lot more satisfaction) than ordering in.  
+
+ You may know Mollie Katzen as the author of such famous cookbooks as *Moosewood Cookbook* or *The Enchanted Broccoli Forest*; *Get Cooking* has all of the accessibility and personal warmth of those beloved books, but it is Mollie's first cookbook for vegetarians and omnivores alike. You will learn how to make North African Red Lentil Soup, Linguine with Spinach and Peas, and Chickpea and Mango Curry—and also Homemade Chicken Noodle Soup, Spinach Lasagna, and Steak Fajitas.  
+
+ With *Get Cooking* in hand, you'll be serving everything from salads (such as Wilted Spinach Salad with Hazelnuts, Goat Cheese, and Golden Raisins) to desserts (try the Cheesecake Bars), with stops along the way for party snacks, a full array of side dishes, and a brilliant assortment of handcrafted burgers (bean, tofu, and mushroom—as well as beef, turkey, and tuna). Here at last is the cookbook that will make a cook out of everyone.</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061732430</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T23:51:25.606000+00:00" name="calibre:timestamp"/>
+        <meta content="Get Cooking: 150 Simple Recipes to Get You Started in the Kitchen" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

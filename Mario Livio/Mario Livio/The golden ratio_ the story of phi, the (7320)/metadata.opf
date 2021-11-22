@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7320</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e72e6641-9160-419b-bca0-6f9c28dfbafe</dc:identifier>
+        <dc:title>The golden ratio: the story of phi, the world's most astonishing number</dc:title>
+        <dc:creator opf:file-as="Livio, Mario" opf:role="aut">Mario Livio</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-09-23T09:35:12.392000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Throughout history, thinkers from mathematicians to theologians have pondered the mysterious relationship between numbers and the nature of reality. In this fascinating book, Mario Livio tells the tale of a number at the heart of that mystery: *phi*, or 1.6180339887...This curious mathematical relationship, widely known as "The Golden Ratio," was discovered by Euclid more than two thousand years ago because of its crucial role in the construction of the pentagram, to which magical properties had been attributed. Since then it has shown a propensity to appear in the most astonishing variety of places, from mollusk shells, sunflower florets, and rose petals to the shape of the galaxy. Psychological studies have investigated whether the Golden Ratio is the most aesthetically pleasing proportion extant, and it has been asserted that the creators of the Pyramids and the Parthenon employed it. It is believed to feature in works of art from Leonardo da Vinci's *Mona Lisa *to Salvador Dali's *The Sacrament of the Last Supper*, and poets and composers have used it in their works. It has even been found to be connected to the behavior of the stock market!*The Golden Ratio* is a captivating journey through art and architecture, botany and biology, physics and mathematics. It tells the human story of numerous phi-fixated individuals, including the followers of Pythagoras who believed that this proportion revealed the hand of God; astronomer Johannes Kepler, who saw phi as the greatest treasure of geometry; such Renaissance thinkers as mathematician Leonardo Fibonacci of Pisa; and such masters of the modern world as Goethe, Cezanne, Bartok, and physicist Roger Penrose.  Wherever his quest for the meaning of phi takes him, Mario Livio reveals the world as a place where order, beauty, and eternal mystery will always coexist.*From the Hardcover edition.*</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780767908160</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-10T09:34:14.416000+00:00" name="calibre:timestamp"/>
+        <meta content="golden ratio: the story of phi, the world's most astonishing number, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

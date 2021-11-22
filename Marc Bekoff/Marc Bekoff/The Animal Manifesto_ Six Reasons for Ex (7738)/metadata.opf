@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7738</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5aee21e8-710f-4fbb-88dc-d5a963943506</dc:identifier>
+        <dc:title>The Animal Manifesto: Six Reasons for Expanding Our Compassion Footprint</dc:title>
+        <dc:creator opf:file-as="Bekoff, Marc" opf:role="aut">Marc Bekoff</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-02-01T17:42:51.575000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;A collaborator with legendary primatologist Jane Goodall and the 2000 winner of the Exemplar Award from the Animal Behavior Society, author and Colorado University professor Bekoff (The Emotional Lives of Animals) lays out the "unique responsibilities" of human beings, as "moral agents," to overcome speciesism and recognize animals "as fellow sentient, emotional beings," with all the attendant rights that implies. Taking examples from everyday life-from rodeos and circuses to word-processors that replace "who" with "that" when referring to animals-Bekoff illustrates the lengths to which humans go to convince themselves animals don't think, feel, and suffer like we do. Concerning a topic of growing popularity, Bekoff's arguments can be less than rigorous; an "unwavering optimist and dreamer," he focuses more on anecdotes and emotions ("alienation from nature... kills our hearts") than practicalities or a concrete agenda. Instead, Bekoff encourages readers to start simply, by being "mindful" in their interactions with animals. Addressing a weighty issue with gentle but insistent charm, Bekoff's manifesto will nudge skeptics in the direction of enlightenment (assuming anyone but the choir is buying copies). &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;Following the premises that animals both feel and convey emotion, are capable of actions that are motivated by compassion, and exhibit attitudes of kindness and empathy, preeminent ethologist and prolific author Bekoff comprehensively posits that the time has come for humans to return the favor. Just as environmental activists advocate reducing one’s carbon footprint in order to live more responsibly, Bekoff argues that expanding one’s compassion footprint, that is, treating animals more humanely, can have equally beneficial consequences. Supporting current scientific research with a wide range of anecdotal evidence, Bekoff outlines six guiding principles designed to increase awareness of the deplorable conditions animals experience across a broad spectrum of activities. From food production to circus acts, drug testing to wildlife encroachment, animals have long been considered objects to be manipulated for the express pleasure and benefit of humans. Unabashedly speaking on their behalf, Bekoff presents impassioned reasons why, and explicit ways in which, such destructive behaviors should stop. --Carol Haggas 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>New World Library</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781577316497</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Science</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-22T17:34:24.945000+00:00" name="calibre:timestamp"/>
+        <meta content="Animal Manifesto: Six Reasons for Expanding Our Compassion Footprint, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Science&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

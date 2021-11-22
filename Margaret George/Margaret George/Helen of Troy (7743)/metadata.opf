@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7743</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72c187b6-0f67-4701-ace4-a60aea34f1a1</dc:identifier>
+        <dc:title>Helen of Troy</dc:title>
+        <dc:creator opf:file-as="George, Margaret" opf:role="aut">Margaret George</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-08-08T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+ 
+ &lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+ &lt;div&gt;
+ &lt;i&gt;Starred Review.&lt;/i&gt; George (&lt;i&gt;Mary, Called Magdalene&lt;/i&gt;) depicts with bravado, grace and eloquence the grand spectacle surrounding Helen of Troy. The author's research into Mycenaean culture, coupled with Trojan War mythology's larger-than-life heroes, enliven a bold story pulsing with romance and sacrifice, omens and battles. Helen's noble Spartan parents try to defy the fates when a seer foretells the tragedy Helen and her legendary beauty will cause, but, as the myth of Helen demonstrates, destiny cannot be altered. Helen's years of seclusion in Sparta lead to a frigid marriage to Menelaus before she connects with Paris, the Trojan prince with whom she forges an inextricable bond. Barely into her 20s, Helen escapes with Paris to Troy, but finds the Trojan royals welcome her with less than open arms. The mythic war, which, in less capable hands, might be over-romanticized, is portrayed with an enthusiasm that rings true to the period without verging on stagy—no small feat when dealing with such a sweeping conflict. George's extraordinary storytelling abilities shine in her portrayal of Helen as both a conflicted woman who abandoned her homeland and child for true love, and as a legendary figure whose beauty and personal choices had epic consequences. &lt;i&gt;(On sale Aug. 7)&lt;/i&gt; &lt;br&gt;Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved.
+ 
+ &lt;/div&gt;
+ &lt;h3&gt;From &lt;/h3&gt;
+ &lt;div&gt;
+ When Helen of Sparta is seven years old, the sibyl at Delphi prophesies she will start a war in which many Greeks will die. King Tyndareus and Queen Leda, stricken with panic, keep their younger daughter in seclusion, discouraging rumors that Zeus is her real father. To marry her off quickly, they spread word that Helen is the most beautiful woman in the world. But because Helen fails to invoke Aphrodite when choosing a husband, her marriage to Menelaus of Mycenae is passionless. The fickle goddess finally hears Helen's pleas, yet Aphrodite's powers affect only Paris, a visiting Trojan prince, with whom Helen immediately falls in love. When the pair elopes one night to Paris' affluent homeland, it precipitates a war destined to last 20 years, one that Menelaus' restless and greedy brother, Agamemnon, has been itching to fight. Only George, reigning queen of the epic fictional biography, could render Helen's story with all the emotion, grandeur, and tragedy it deserves. Her characters are precisely crafted, and the lovely Helen, clear-eyed and intelligent, is a sympathetic narrator. Despite the novel's length, the pages practically turn themselves. An absorbing retelling of the classic Trojan War myth, and a sobering look at the utter futility of trying to change one's fate. &lt;i&gt;Sarah Johnson&lt;/i&gt;&lt;br&gt;&lt;i&gt;Copyright © American Library Association. All rights reserved&lt;/i&gt;
+ 
+ &lt;/div&gt;
+&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780670037780</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-10-30T17:32:38.794000+00:00" name="calibre:timestamp"/>
+        <meta content="Helen of Troy" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

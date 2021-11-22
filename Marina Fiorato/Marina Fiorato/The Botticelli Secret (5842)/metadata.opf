@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5842</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d91b41a6-a2fe-48fe-a278-9a5a305e0d8f</dc:identifier>
+        <dc:title>The Botticelli Secret</dc:title>
+        <dc:creator opf:file-as="Fiorato, Marina" opf:role="aut">Marina Fiorato</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T21:03:48.329000+00:00</dc:date>
+        <dc:description>SUMMARY:
+A young woman in 15th-century Italy must flee for her life after stumbling upon a deadly secret when she serves as a model for Botticelli in a rip-roaring novel that blends enticing mystery, historical intrigue and romantic adventure. Gloriously fresh and vivid, with a deliciously irreverent heroine, 'The Botticelli Secret' is a masterful concoction of enticing mystery, historical intrigue and romantic adventure. Resplendent fifteenth-century Italy is seen through the eyes of the gorgeous Luciana Vetra, part-time model and full-time prostitute. After a request from one of her most exalted clients to pose for a painter friend, Luciana agrees to model for the central figure of Flora in Botticelli's masterpiece 'Primavera' But when the artist dismisses her without payment, Luciana impulsively steals an unfinished version of the painting - only to find that friends and clients are slaughtered around her in an attempt to get it back. So Luciana turns to the one man who has never desired her beauty, novice monk Brother Guido Della Torre, to discover what could be so valuable about the painting. Fleeing Florence together, Luciana and Guido race through the seven cities of Renaissance Italy pursued by ruthless enemies who are determined to keep them from decoding the painting's secrets.</dc:description>
+        <dc:publisher>Allen &amp; Unwin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781742374352</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery:Historical</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-12T21:01:08.174000+00:00" name="calibre:timestamp"/>
+        <meta content="Botticelli Secret, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery:Historical&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

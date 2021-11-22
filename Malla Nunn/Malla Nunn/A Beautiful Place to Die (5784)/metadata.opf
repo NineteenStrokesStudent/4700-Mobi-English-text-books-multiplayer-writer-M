@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5784</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5520b859-ea42-4bf6-9fbf-a4c835283be4</dc:identifier>
+        <dc:title>A Beautiful Place to Die</dc:title>
+        <dc:creator opf:file-as="Nunn, Malla" opf:role="aut">Malla Nunn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-20T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**Award-winning screenwriter Malla Nunn delivers a stunning and darkly romantic crime novel set in 1950s apartheid South Africa, featuring Detective Emmanuel Cooper -- a man caught up in a time and place where racial tensions and the raw hunger for power make life very dangerous indeed.**
+
+In a morally complex tale rich with authenticity, Nunn takes readers to Jacob's Rest, a tiny town on the border between South Africa and Mozambique. It is 1952, and new apartheid laws have recently gone into effect, dividing a nation into black and white while supposedly healing the political rifts between the Afrikaners and the English. Tensions simmer as the fault line between the oppressed and the oppressors cuts deeper, but it's not until an Afrikaner police officer is found dead that emotions more dangerous than anyone thought possible boil to the surface.
+
+When Detective Emmanuel Cooper, an Englishman, begins investigating the murder, his mission is preempted by the powerful police Security Branch, who are dedicated to their campaign to flush out black communist radicals. But Detective Cooper isn't interested in political expediency and has never been one for making friends. He may be modest, but he radiates intelligence and certainly won't be getting on his knees before those in power. Instead, he strikes out on his own, following a trail of clues that lead him to uncover a shocking forbidden love and the imperfect life of Captain Pretorius, a man whose relationships with the black and coloured residents of the town he ruled were more complicated and more human than anyone could have imagined.
+
+The first in her Detective Emmanuel Cooper series, *A Beautiful Place to Die* marks the debut of a talented writer who reads like a brilliant combination of Raymond Chandler and Graham Greene. It is a tale of murder, passion, corruption, and the corrosive double standard that defined an apartheid nation. I</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416586210</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T07:25:16.795000+00:00" name="calibre:timestamp"/>
+        <meta content="Beautiful Place to Die, A" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

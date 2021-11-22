@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7780</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e41b6a5-7f11-45f3-9eeb-432d66c6f383</dc:identifier>
+        <dc:title>One minute to midnight: Kennedy, Khrushchev, and Castro on the brink of nuclear war</dc:title>
+        <dc:creator opf:file-as="Dobbs, Michael" opf:role="aut">Michael Dobbs</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-06-03T06:39:43.706000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Starred Review. &lt;em&gt;Washington Post&lt;/em&gt; reporter Dobbs (_Saboteurs_) is a master at telling stories as they unfold and from a variety of perspectives. In this re-examination of the 1963 Bay of Pigs face-off between the U.S. and the U.S.S.R., Dobbs combines visits to Cuba, discussions with Russian participants and fingertip command of archival and printed U.S. sources to describe a wild ride that—contrary to the myth of Kennedy's steel-nerved crisis management—was shaped by improvisation, guesswork and blind luck. Dobbs's protagonists act not out of malevolence, incompetence or machismo. Kennedy, Khrushchev and their advisers emerge as men desperately seeking a handle on a situation no one wanted and no one could resolve. In a densely packed, fast-paced, suspenseful narrative, Dobbs presents the crisis from its early stages through the decision to blockade Cuba and Kennedy's ordering of DEFCON 2, the last step before an attack, to the final resolution on October 27 and 28. The work's climax is a detailed reconstruction of the dry-mouthed, sweaty-armpits environment of those final hours before both sides backed down. From first to last, this sustains Dobbs's case that crisis management is a contradiction in terms. &lt;em&gt;(June 5)&lt;/em&gt; &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;From&lt;/h3&gt;
+&lt;p&gt;The 1962 Cuban missile crisis is probably the single most analyzed episode of the cold war. In the past decade, declassified American and Russian documents have proved that a nuclear exchange was even closer than most scholars had previously realized. Dobbs, a reporter for the Washington Post, has used those sources as well as numerous new ones gleaned from two years of research in the U.S., Cuba, and Russia. Although nothing presented here will change the overall view of the crisis, Dobbs presents new and often startling information that again confirms that the thirteen days in October brought the world to the edge of an unprecedented cataclysm. Dobbs spends little time describing the characters of the key players, but he does convey a sense of men under immense stress as events threaten to outstrip their ability to cope with them. This is a well-written effort to explain and understand our closest brush with nuclear war. --Jay Freeman 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781400043583</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-11-12T06:38:01.868000+00:00" name="calibre:timestamp"/>
+        <meta content="One minute to midnight: Kennedy, Khrushchev, and Castro on the brink of nuclear war" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

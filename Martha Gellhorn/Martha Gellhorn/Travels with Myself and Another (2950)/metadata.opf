@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b5e0c279-58cd-4c33-b8b0-15cafa1bb6f0</dc:identifier>
+        <dc:title>Travels with Myself and Another</dc:title>
+        <dc:creator opf:file-as="Gellhorn, Martha" opf:role="aut">Martha Gellhorn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-05-01T02:40:14.968000+00:00</dc:date>
+        <dc:description>SUMMARY:
+A brilliantly witty and intelligent memoir of the adventures, discoveries, rescues, and narrow escapes of Martha Gellhorn, one of America's most important war correspondents and the third wife of Ernest Hemingway. "Gellhorn is incapable of writing a dull sentence". The Times (London) "Martha Gellhorn was so fearless in a male way, and yet utterly capable of making men melt", writes New Yorker literary editor Bill Buford. As a journalist, Gellhorn covered every military conflict from the Spanish Civil War to Vietnam and Nicaragua. She also bewitched Eleanor Roosevelt's secret love and enraptured Ernest Hemingway with her courage as they dodged shell fire together. Hemingway is, of course, the unnamed "other" in the title of this tart memoir, first published in 1979, in which Gellhorn describes her globe-spanning adventures, both accompanied and alone. With razor-sharp humor and exceptional insight into place and character, she tells of a tense week spent among dissidents in Moscow; long days whiled away in a disused water tank with hippies clustered at Eilat on the Red Sea; and her journeys by sampan and horse to the interior of China during the Sino-Japanese War. Now including a foreward by Bill Buford and photographs of Gellhorn with Hemingway, Dorothy Parker, Madame Chiang Kai-shek, Gary Cooper, and others, this new edition rediscovers the voice of an extraordinary woman and brings back into print an irresistibly entertaining classic.</dc:description>
+        <dc:publisher>Penguin Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781585420902</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-01T02:36:00.238000+00:00" name="calibre:timestamp"/>
+        <meta content="Travels with Myself and Another" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

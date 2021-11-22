@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5760</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1a1d27dd-72a8-4728-99d5-59a121fba3a4</dc:identifier>
+        <dc:title>Loco Motive: A Bed-and-Breakfast Mystery</dc:title>
+        <dc:creator opf:file-as="Daheim, Mary" opf:role="aut">Mary Daheim</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T06:09:02.578000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+From *USA Today* bestselling author Mary Daheim comes her latest Bed-and-Breakfast book featuring innkeeper Judith McMonigle Flynn and her irrepressible cousin Renie in a mystery that takes them on the wrong side of the tracks. . . . *Loco Motive*   
+
+ It's autumn at Hillside Manor B&amp;B, and with the changing leaves come some unexpected guests. There's Judith's son and daughter-in-law, with their two children in tow, a couple with an impossible (and unbelievable?) last name who show up from nowhere, and a pair of giggly young women who don't seem to know where they're going.  
+
+ As Halloween draws nigh, Judith can barely cope with her gala of guests, but at least the worst guest from the first part of the week checks out—almost permanently. Wee Willie Weevil, infamous daredevil and martial-arts movie icon, insisted on performing his dangerous stunts from Judith's roof and left the B&amp;B via an ambulance.  
+
+ Hoping to escape the domestic mayhem, Judith agrees to accompany Renie on a cross-country train trip to Boston with first-class accommodations on the Empire Builder. Judith's bubble bursts when she discovers that Wee Willie and his entourage are fellow travelers. Although confined to a wheelchair, the diminutive stunt man seems capable of derailing the cousins' vacation.  
+
+ Cousin Renie does her best to ease Judith's mind until the train collides with a truckload of sugar beets. Forced to wait for a new engine in a small Montana town in the middle of nowhere, the passengers can do nothing but watch and wait. Even before the train can get back on track, the cousins discover that their sleeper attendant has gone missing. Worse yet, another passenger's final destination is the nearest morgue.  
+
+ Judith and Renie have to move full speed ahead if they want to blow the whistle on the killer before death strikes again. Can the train continue its journey? Will the cousins ever get to Boston? Stay aboard!</dc:description>
+        <dc:publisher>HarperCollins</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780061351563</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <meta content="Bed-And-Breakfast Mysteries" name="calibre:series"/>
+        <meta content="25" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-08T06:06:54.309000+00:00" name="calibre:timestamp"/>
+        <meta content="Loco Motive: A Bed-and-Breakfast Mystery" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Mystery&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

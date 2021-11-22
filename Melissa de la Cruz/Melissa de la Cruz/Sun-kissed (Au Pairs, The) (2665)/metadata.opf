@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2665</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d042b96e-ddb3-4072-be5c-aabafc5cd47e</dc:identifier>
+        <dc:title>Sun-kissed (Au Pairs, The)</dc:title>
+        <dc:creator opf:file-as="Cruz, Melissa de la" opf:role="aut">Melissa de la Cruz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-16T07:00:00+00:00</dc:date>
+        <dc:description>Kissed (The Au Pairs #3) 
+EDITORIAL REVIEW:
+
+**Be careful or you'll get burned.**
+
+
+
+
+
+The three hottest au pairs in history are back, and this time they're ready to rule the Hamptons. Mara has all the VIPs in the hottest clubs hanging on her every word. Eliza's family is back from financial ruin; and she's got the platinum charge cards to prove it. Jacqui is newly single and ready for some steamy summer hook-ups. The girls seem to have it all this summer...but looks, as we all know, can be deceiving.
+
+
+
+Mara's living every girl's dream: playing house with her boyfriend, Ryan Perry, on his parents' luxury yacht while writing a column about night-life in the Hamptons. With a press pass to every hot event, Mara's ready to hit the red carpet and scoop even the most seasoned journalists. If only she could get a pass from Ryan, who just wants her to stay home and cuddle. 
+
+
+
+Last summer's "No boys!" mantra is a distant memory for Jacqui. While the new au pair, Shannon, handles the Perry kids, Jacqui searches for some serious fun. And she doesn't have to look far: Three dot.com boy millionaires have moved in next door and are more than happy to compete for her affections. Thus Jacqui's new mantra is, "Why have just one when you can have them all?"
+
+
+
+Eliza and Jeremy are in total relationship bliss. She's decided to take the next step with Jeremy and nothing's going to stop her this time. Unfortunately, what she thought would be a cakewalk internship for a famous fashion designer turns out to be more hours of hard labor than she, or her relationship, are ready for. Too bad Jeremy won't stop questioning her work ethic long enough for Eliza to get back in the mood. 
+
+
+
+*The Au Pairs: Sun-kissed.* Because it's soooo much more than just a job.</dc:description>
+        <dc:publisher>Simon &amp; Schuster Children's Publishing</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416917465</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Young Adult</dc:subject>
+        <meta content="The Au Pairs" name="calibre:series"/>
+        <meta content="3" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-07-16T14:56:28.274290+00:00" name="calibre:timestamp"/>
+        <meta content="Sun-kissed (Au Pairs, The)" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Young Adult&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 4, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7749</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">65104762-06b6-4132-a846-5c1989c8a068</dc:identifier>
+        <dc:title>Mark Bittman's Kitchen Express: 404 Inspired Seasonal Dishes You Can Make in 20 Minutes Or Less</dc:title>
+        <dc:creator opf:file-as="Bittman, Mark" opf:role="aut">Mark Bittman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-07-07T03:12:43.348000+00:00</dc:date>
+        <dc:description>&lt;h3&gt;From Publishers Weekly&lt;/h3&gt;
+&lt;p&gt;Bittman here offers a sampling of 404 inspiring recipes. But don't expect another &lt;em&gt;How to Cook Everything&lt;/em&gt;. This newest is of a different kind—simple and snappy, and rarely calls for measuring spoons. The no-sweat recipes are divided into four sections: summer, fall, winter and spring, capitalizing on the freshest ingredients of each season while whittling down the prep time of ordinarily elaborate dishes like coq au vin and ricotta cheesecake to 10 minutes or less. The book includes a drill-down of how best to stock your kitchen, and given the impromptu nature of the book, the substitution grid proves indispensable. While many dishes are sandwiches, dips or salads, Bittman offers a handful of innovative gems like figs in a blanket and pasta jambalaya, drawing from a diverse gastronomical panorama including Latin, Asian, Mediterranean and Creole flavors. And while quick, Bittman's recipes don't lack his signature creative punch. Lavender-thyme braised chicken, scallop and peach ceviche and a five-spice lobster sandwich will make most readers both salivate and appreciate the ease of his recipes. &lt;em&gt;(June)&lt;/em&gt; &lt;br /&gt;
+Copyright © Reed Business Information, a division of Reed Elsevier Inc. All rights reserved. 
+&lt;/p&gt;
+
+&lt;h3&gt;Product Description&lt;/h3&gt;
+&lt;p&gt;Cooking can be one of life's essential pleasures, even when you have to put dinner on the table every night. Now, with Mark Bittman's trusted voice as your guide, quick, easy, and fresh meals are always a realistic option.
+&lt;/p&gt;
+&lt;p&gt;Presented here are 404 dishes -- 101 for each season -- that will get you in and out of the kitchen in 20 minutes or less. Mark Bittman's recipe sketches provide exactly the directions a home cook needs to prepare a repertoire of eggs, seafood, poultry, meats, vegetables, sandwiches, and even desserts. Add a salad here, a loaf of bread there, and these dishes become full meals that are better than takeout and far less expensive.
+&lt;/p&gt;
+&lt;p&gt;These 404 recipes are as delicious and sophisticated as they are simple: Make the most of summer produce with Scallop and Peach Ceviche or Apricot Cream Upside-Down Pie. When the air starts to cool, try Salmon and Sweet Potato with Coconut Curry Sauce or Broiled Brussels Sprouts with Hazelnuts. On a cold winter night, warm up with White Bean Stew served over crusty slices of olive oil-brushed baguette. Or welcome spring with Shrimp with Asparagus, Dill, and Spice or Poached Eggs and Truffled Arugula Prosciutto Salad.
+&lt;/p&gt;
+&lt;p&gt;Because good ingredients are the backbone of delicious home cooking, Bittman includes a guide to the foods you'll want on hand to cook the Kitchen Express way, as well as suggestions for seasonal menus and lists of recipes for specific uses, like brown-bag lunches or the best dishes for reheating. With &lt;em&gt;Mark Bittman's Kitchen Express&lt;/em&gt;, you can have dinner on the table in not much more time than it takes to read a traditional recipe. 
+&lt;/p&gt;</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781416575665</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Food</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-04T03:59:27.844136+00:00" name="calibre:timestamp"/>
+        <meta content="Mark Bittman's Kitchen Express: 404 Inspired Seasonal Dishes You Can Make in 20 Minutes Or Less" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Food&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

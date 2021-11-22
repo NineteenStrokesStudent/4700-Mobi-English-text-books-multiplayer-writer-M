@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6851</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d128d5e-9c00-4e20-993b-c124c9304fdc</dc:identifier>
+        <dc:title>The Fountain</dc:title>
+        <dc:creator opf:file-as="Nichols, Mary" opf:role="aut">Mary Nichols</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T04:36:27.676000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+It was Norfolk, 1920. Barbara Bosgrove has lived in the charming market town of Melsham all her life, and is looking forward to the annual Harvest Supper dinner and ball - the first since the dark days of the First World War. Her widowed father will be her escort, but it is not long before George Kennett seeks her out for a dance. He has had his eye on her since spotting her punting on the Cam with her great friend Penny, and Penny's charming brother Simon. George vows to win Barbara's hand in marriage - a woman of her prestige would help raise his prospects considerably, and George is nothing if not a man of ambition - and begins a slow and steady courtship. Little by little, Barbara is won over, and eventually agrees to marry George; although he can be rather serious at times - lacking the fun and spontaneity of Simon - she believes he is a man she can rely on. Little does she realize how wrong she can be. Worn down by several years of marriage, during which George has been continually unfaithful to her and callously ruthless in his business plans to the point of illegality, Barbara feels she has lost all the vitality of her youth.  But her old friend Simon is not prepared to let Barbara lose sight of the woman she really is - the woman he has always loved. He reawakens Barbara's passion and fighting spirit, but at what cost?</dc:description>
+        <dc:publisher>Allison &amp; Busby, Limited</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780749008406</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-30T04:35:29.901000+00:00" name="calibre:timestamp"/>
+        <meta content="Fountain, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Romance&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

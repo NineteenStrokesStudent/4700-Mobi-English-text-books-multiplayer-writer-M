@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df9afed9-69d5-4e68-a9e6-7edfd7dc0154</dc:identifier>
+        <dc:title>Three Stations: An Arkady Renko Novel</dc:title>
+        <dc:creator opf:file-as="Smith, Martin Cruz" opf:role="aut">Martin Cruz Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-15T07:00:00+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+**A passenger train hurtling through the night. An unwed teenage mother headed to Moscow to seek a new life. A cruel-hearted soldier looking furtively, forcibly, for sex. An infant disappearing without a trace. **So begins Martin Cruz Smith’s masterful *Three Stations*, a suspenseful, intricately constructed novel featuring Investigator Arkady Renko. For the last three decades, beginning with the trailblazing *Gorky Park*, Renko (and Smith) have captivated readers with detective tales set in Russia. Renko is the ironic, brilliantly observant cop who finds solutions to heinous crimes when other lawmen refuse to even acknowledge that crimes have occurred. He uses his biting humor and intuitive leaps to fight not only wrongdoers but the corrupt state apparatus as well. In *Three Stations*, Renko’s skills are put to their most severe test. Though he has been technically suspended from the prosecutor’s office for once again turning up unpleasant truths, he strives to solve a last case: the death of an elegant young woman whose body is found in a construction trailer on the perimeter of Moscow’s main rail hub. It looks like a simple drug overdose to everyone—except to Renko, whose examination of the crime scene turns up some inexplicable clues, most notably an invitation to Russia’s premier charity ball, the billionaires’ Nijinksy Fair. Thus a sordid death becomes interwoven with the lifestyles of Moscow’s rich and famous, many of whom are clinging to their cash in the face of Putin’s crackdown on the very oligarchs who placed him in power. Renko uncovers a web of death, money, madness and a kidnapping that threatens the woman he is coming to love and the lives of children he is desperate to protect. In *Three Stations*, Smith produces a complex and haunting vision of an emergent Russia’s secret underclass of street urchins, greedy thugs and a bureaucracy still paralyzed by power and fear.*
+
+ *</dc:description>
+        <dc:publisher>Simon &amp; Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780743276740</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Suspense</dc:subject>
+        <meta content="Arkady Renko" name="calibre:series"/>
+        <meta content="7" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-26T16:04:57.065000+00:00" name="calibre:timestamp"/>
+        <meta content="Three Stations: An Arkady Renko Novel" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Suspense&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

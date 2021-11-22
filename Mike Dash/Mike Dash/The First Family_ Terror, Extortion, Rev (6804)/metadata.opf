@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6804</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ce1ddb0-8e91-4376-802a-1eb93dba06aa</dc:identifier>
+        <dc:title>The First Family: Terror, Extortion, Revenge, Murder and the Birth of the American Mafia</dc:title>
+        <dc:creator opf:file-as="Dash, Mike" opf:role="aut">Mike Dash</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-09-15T08:31:06.227000+00:00</dc:date>
+        <dc:description>SUMMARY:
+Before the notorious Five Families who dominated U.S. organized crime for a bloody half century, there was the one-fingered criminal genius Giuseppe Morello–known as “The Clutch Hand”–and his lethal coterie of associates. In The First Family, historian, journalist, and New York Times bestselling author Mike Dash brings to life this little-known story, following the rise of the Mafia in America from the 1890s to the 1920s, from the lawless villages of Sicily to the streets of Little Italy. Using an impressive array of primary sources–hitherto untapped Secret Service archives, prison records, trial transcripts, and interviews with surviving family members–this is the first Mafia history that applies scholarly rigor to the story of the Morello syndicate and the birth of organized crime on these shores.Progressing from small-time scams to counterfeiting rings to even bigger criminal enterprises, Giuseppe Morello exerted ruthless control of Italian neighborhoods in New York, and through adroit coordination with other Sicilian crime families, his Clutch Hand soon reached far beyond the Hudson River.The men who battled Morello’s crews were themselves colorful and legendary figures, including William Flynn, a fearless Secret Service agent, and Lieutenant Detective Giuseppe “Joe” Petrosino of the New York Police Department’s elite Italian Squad, whose pursuit of the brutal gangs ultimately cost him his life. Combining first-rate scholarship and pulse-quickening action, and set amid rustic Sicilian landscapes and the streets of old New York, The First Family is a groundbreaking account of the crucial period when the American criminal underworld exploded with violent fury across the nation.From the Hardcover edition.</dc:description>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345523570</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>History</dc:subject>
+        <dc:subject>True Crime</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-29T08:28:17.353000+00:00" name="calibre:timestamp"/>
+        <meta content="First Family: Terror, Extortion, Revenge, Murder and the Birth of the American Mafia, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;True Crime&quot;, &quot;History&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

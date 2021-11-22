@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6775</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47fd6140-e2e4-426c-8323-53c2d25b0978</dc:identifier>
+        <dc:title>Mass Casualties: A Young Medic's True Story of Death, Deception, and Dishonor in Iraq</dc:title>
+        <dc:creator opf:file-as="Anthony, Michael" opf:role="aut">Michael Anthony</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-18T07:00:00+00:00</dc:date>
+        <dc:description>SUMMARY:
+From the Introduction: ""Look around," the drill sergeant said. "In a few years, or even a few months, several of you will be dead. Some of you will be severely wounded or so badly mutilated that your own mother can't stand the sight of you. And for the real unlucky ones, you will come home so emotionally disfigured that you wish you had died over there."It was Week 7 of Basic Training . . . 18 years old and I was preparing myself to die."They say the Army makes a man out of you--but for 18-year-old SPC Michael Anthony, that fabled rite of passage proved a very dark journey. After soliciting his parents' approval to enlist at only 17, Anthony began his journey with an unshakeable faith in the military born of his family's long tradition of service. But when thrust into a medical unit of misfits as lost as he was, SPC Anthony not only witnessed the unspeakable horror of war--but the undeniable misconduct of the military--firsthand. Everything he ever believed in dissolved, forcing Anthony to rethink his loyalties, and ultimately risk his career--and his freedom--to challenge the military he had so firmly believed in.This searing memoir chronicles the iconic experiences that changed one young soldier forever. A seasoned veteran before the age of twenty-one, he faced the truth about the war--and himself--in this shocking and unprecedented eyewitness account.</dc:description>
+        <dc:publisher>Adamesmedia</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781440501838</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T20:00:07.306000+00:00" name="calibre:timestamp"/>
+        <meta content="Mass Casualties: A Young Medic's True Story of Death, Deception, and Dishonor in Iraq" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

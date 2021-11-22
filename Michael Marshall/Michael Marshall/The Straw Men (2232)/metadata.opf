@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2232</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">df78f37c-9298-4f04-acf8-34b7f789309e</dc:identifier>
+        <dc:title>The Straw Men</dc:title>
+        <dc:creator opf:file-as="Marshall, Michael" opf:role="aut">Michael Marshall</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-21T04:00:59.643000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Michael Marshall's unique voice adds a chilling intensity to the serial-killer plot, combining dazzling narrative, a white-hot pace and a deeply disturbing backdrop of conspiracy.  Sarah tries to struggle, but the man holds her. The scream never makes it out of her throat. 'Nobody watching,' the man says with hateful calm. 'I made it this way. I can walk where nobody sees.'  The Straw Men. They kill people. Any people. And soon they'll get around to you.  Sarah Becker is the fifth girl to be abducted by this maniac. Judging from the state of the bodies that have been found, her long hair will be hacked off and she will be tortured. She has about a week to live. Former LA homicide detective John Zandt has an inside track on the perpetrator -- his own daughter was one of his victims two years ago. But the key to Sarah's whereabouts lies with Ward Hopkins, a man with a past so secret not even he knows about it. His parents have just died in a car accident, but they leave Ward a very strange message that leads him to question everything he once believed to be true.  As he begins to investigate his own past Ward finds himself drawn into the shadowy, sinister world of the Straw Men -- and into the desperate race to find Sarah, before her time runs out.</dc:description>
+        <dc:publisher>London : HarperCollins, 2002</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780006499985</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Fiction:Thriller</dc:subject>
+        <meta content="The Straw Men trilogy" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-08-21T04:00:59.643000+00:00" name="calibre:timestamp"/>
+        <meta content="Straw Men, The" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Fiction:Thriller&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 8, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>

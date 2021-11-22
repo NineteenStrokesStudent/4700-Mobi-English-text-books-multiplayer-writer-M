@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6735</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c12c1320-4416-430d-9728-e976c9ebb0cb</dc:identifier>
+        <dc:title>High on Arrival</dc:title>
+        <dc:creator opf:file-as="Phillips, Mackenzie &amp; Liftin, Hilary" opf:role="aut">Mackenzie Phillips</dc:creator>
+        <dc:creator opf:file-as="Phillips, Mackenzie &amp; Liftin, Hilary" opf:role="aut">Hilary Liftin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.7.35) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-23T10:18:22.285000+00:00</dc:date>
+        <dc:description>EDITORIAL REVIEW:
+
+Not long before her fiftieth birthday, Mackenzie Phillips walked into Los Angeles International Airport. She was on her way to a reunion for *One Day at a Time*, the hugely popular 70s sitcom on which she once starred as the lovable rebel Julie Cooper. Within minutes of entering the security checkpoint, Mackenzie was in handcuffs, arrested for possession of cocaine and heroin.
+
+Born into rock and roll royalty, flying in Learjets to the Virgin Islands at five, making pot brownies with her father's friends at eleven, Mackenzie grew up in an all-access kingdom of hippie freedom and heroin cool. It was a kingdom over which her father, the legendary John Phillips of The Mamas &amp; the Papas, presided, often in absentia, as a spellbinding, visionary phantom.
+
+When Mackenzie was a teenager, Hollywood and the world took notice of the charming, talented, precocious child actor after her star-making turn in *American Graffiti*. As a young woman she joinedthe nonstop party in the hedonistic pleasure dome her father created for himself and his fellow revelers, and a rapt TV audience watched as Julie Cooper wasted away before their eyes. By the time Mackenzie discovered how deep and dark her father's trip was going, it was too late. And as an adult, she has paid dearly for a lifetime of excess, working tirelessly to reconcile a wonderful, terrible past in which she succumbed to the power of addiction and the pull of her magnetic father.
+
+As her astounding, outrageous, and often tender life story unfolds, the actor-musician-mother shares her lifelong battle with personal demons and near-fatal addictions. She overcomes seemingly impossible obstacles again and again and journeys toward redemption and peace. By exposing the shadows and secrets of the past to the light of day, the star who turned up *High on Arrival* has finally come back down to earth -- to stay.</dc:description>
+        <dc:publisher>Simon and Schuster</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781439153857</dc:identifier>
+        <dc:language>en</dc:language>
+        <dc:subject>Autobiography</dc:subject>
+        <meta content="0" name="calibre:rating"/>
+        <meta content="2010-09-28T10:17:22.879000+00:00" name="calibre:timestamp"/>
+        <meta content="High on Arrival" name="calibre:title_sort"/>
+        <meta name="calibre:user_metadata:#genre" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 1, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Genre&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;text&quot;, &quot;rec_index&quot;: 21, &quot;search_terms&quot;: [&quot;#genre&quot;], &quot;#value#&quot;: [&quot;Autobiography&quot;], &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;genre&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: &quot;|&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_1&quot;, &quot;display&quot;: {}}"/>
+        <meta name="calibre:user_metadata:#formats" content="{&quot;is_category&quot;: false, &quot;colnum&quot;: 3, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Formats&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;composite&quot;, &quot;rec_index&quot;: 23, &quot;search_terms&quot;: [&quot;#formats&quot;], &quot;#value#&quot;: &quot;EPUB, MOBI&quot;, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;formats&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_3&quot;, &quot;display&quot;: {&quot;composite_template&quot;: &quot;{formats}&quot;}}"/>
+        <meta name="calibre:user_metadata:#quality" content="{&quot;is_category&quot;: true, &quot;colnum&quot;: 2, &quot;kind&quot;: &quot;field&quot;, &quot;is_custom&quot;: true, &quot;name&quot;: &quot;Quality&quot;, &quot;#extra#&quot;: null, &quot;datatype&quot;: &quot;rating&quot;, &quot;rec_index&quot;: 22, &quot;search_terms&quot;: [&quot;#quality&quot;], &quot;#value#&quot;: 10, &quot;link_column&quot;: &quot;value&quot;, &quot;label&quot;: &quot;quality&quot;, &quot;is_editable&quot;: true, &quot;column&quot;: &quot;value&quot;, &quot;is_multiple&quot;: null, &quot;category_sort&quot;: &quot;value&quot;, &quot;table&quot;: &quot;custom_column_2&quot;, &quot;display&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" type="cover" title="Cover"/>
+    </guide>
+</package>
